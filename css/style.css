@@ -617,23 +617,6 @@ div.package:last-child .package-logo{
 select.no-border:hover{
     color:rgb(55,55,55);
 }
-/*.price tr:first-child td:first-child span{
-    margin: 0px 0px 0px 20px;
-    padding: 38px 85px 38px 65px;
-    border-bottom: 1px solid rgb(217,217,217);
-}
-.price tr:first-child td:nth-child(2) span{   
-    margin: 0 0 0 0;
-    padding: 25px 91px 35px 90px;
-    border-left: 1px solid rgb(217,217,217);
-}
-.price tr:last-child td:first-child span{
-    margin: 0 0 0 20px;
-    padding: 35px 97px 25px 73px;
-    border-right: 1px solid rgb(217,217,217);
-} 
-This is an attempt to make through additional element, it turns out, but bad. 
-*/
 .domain-choose span:first-child{
     margin-left:15px;
     padding:6px 4px 6px 0;
